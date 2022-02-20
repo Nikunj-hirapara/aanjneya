@@ -12,7 +12,7 @@
 						<div class="col-lg-6 col-sm-6">
 							<ul>
 								<li>
-									<a href="index.html">
+									<a href="{{ url('/') }}">
 										Home 
 									</a>
 								</li>
